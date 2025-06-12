@@ -13,6 +13,11 @@
       "country": "US"
     },
     {
+      "url": "https://minime.openadp.org",
+      "public_key": "ed25519:uTHDZ6jI9vbb4FxCF3Ok7MD3IE4wZYlVg76lNSaFzD8=",
+      "country": "US"
+    },
+    {
       "url": "https://akash.network",
       "public_key": "ed25519:AAAAC3NzaC1lZDI1NTE5AAAAIPlaceholder3AkashNetworkTestKey111Demo",
       "country": "CA"
