@@ -28,6 +28,11 @@
       "country": "US"  
     },
     {
+      "url": "https://cloak.openadp.org",
+      "public_key": "tG++BmlcyF5A0wOTUYfaoS0TFqvPv4dU0gUcxHqJwAA=",
+      "country": "US"  
+    },
+    {
       "url": "https://akash.network",
       "public_key": "ed25519:AAAAC3NzaC1lZDI1NTE5AAAAIPlaceholder3AkashNetworkTestKey111Demo",
       "country": "CA"
