@@ -23,6 +23,11 @@
       "country": "US"  
     },
     {
+      "url": "https://obscura.openadp.org",
+      "public_key": "DiV7oUauXCEC3Ya47II7GGEA0SMCduiNIJNt8rDHfiU=",
+      "country": "US"  
+    },
+    {
       "url": "https://akash.network",
       "public_key": "ed25519:AAAAC3NzaC1lZDI1NTE5AAAAIPlaceholder3AkashNetworkTestKey111Demo",
       "country": "CA"
