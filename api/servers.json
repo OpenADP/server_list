@@ -33,6 +33,11 @@
       "country": "US"  
     },
     {
+      "url": "https://sentinel.openadp.org",
+      "public_key": "u/rp37/fwCXk6bAKpuPBwZIdbJFXt0dUxQK59CjEpwQ=",
+      "country": "US"  
+    },
+    {
       "url": "https://akash.network",
       "public_key": "ed25519:AAAAC3NzaC1lZDI1NTE5AAAAIPlaceholder3AkashNetworkTestKey111Demo",
       "country": "CA"
