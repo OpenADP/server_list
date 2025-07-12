@@ -41,11 +41,6 @@
       "url": "https://veritas.openadp.org",
       "public_key": "sl/Rvs9a2G8IkGi1lX5HTjRXy3tIEQLU35hkxqGdiz4=",
       "country": "US"  
-    },
-    {
-      "url": "https://akash.network",
-      "public_key": "ed25519:AAAAC3NzaC1lZDI1NTE5AAAAIPlaceholder3AkashNetworkTestKey111Demo",
-      "country": "CA"
     }
   ]
 } 
